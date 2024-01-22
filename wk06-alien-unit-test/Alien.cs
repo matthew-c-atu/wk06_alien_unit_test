@@ -1,5 +1,6 @@
 ﻿using System;
-
+namespace wk06_alien_unit_test {
+	
 public class Class1
 {
 		public class Alien
